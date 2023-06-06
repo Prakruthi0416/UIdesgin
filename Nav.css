@@ -1,0 +1,37 @@
+#img1{
+    /* float: left; */
+    height: 20px;
+    width: 100px;
+    /* padding-left: 50px; */
+    /* padding-top: 20px; */
+}
+
+
+#li{
+    list-style-type: none;
+    display:inline-table;
+    /* border: transparent; */
+    /* border: blueviolet; */
+    
+}
+#option{
+    border: transparent;
+}
+#img2{
+    float:inline-end;
+    padding-left:130px;
+}
+#ptag{
+    padding-left: 80px;
+}
+
+#join{
+    height: 37px;
+    width: 160px;
+    border-radius: 30px;
+    background: linear-gradient(266.79deg, #0048FF 4.63%, #0096FF 100%);
+    border: #0048FF;
+    color: white;
+    margin-left: 50px;
+
+}

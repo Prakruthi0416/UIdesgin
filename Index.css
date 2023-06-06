@@ -1,0 +1,96 @@
+.Container-fluid{
+    background:#1E1E1E;
+    height: 700px;
+    width: 100%;
+}
+.scroll{
+    /* overflow-y: hidden; */
+    overflow: scroll;
+    overflow-y: scroll;
+    overflow-x: hidden;
+    /* overflow-inline: ; */
+}
+.scroll::-webkit-scrollbar{
+    width: 0;
+}
+h1{
+    color: white;
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+#img3{
+    height:40px;
+    /* padding-right: 270px; */
+}
+#img4{
+    height: 30px;
+    /* padding-top: 10px; */
+}
+#img5{
+    margin-top: 10px;
+    height: 50px;
+    padding-top: 10px;
+}
+#text1 {
+    margin-top: 20px;
+    height: 18px;
+}
+#text3 {
+    margin-top: 20px;
+    height: 15px;
+}
+
+#img6{
+    height: 40px;
+    /* padding-top: 10px; */
+    margin-top: 20px;
+}
+#img7{
+    height: 40px;
+    margin-top: 20px;
+}
+#img8{
+    height: 40px;
+    /* padding-top: 10px; */
+    margin-top: 20px;
+}
+#img9{
+    height: 40px;
+    /* padding-top: 10px;
+     */
+     margin-top: 20px;
+}
+.card{
+    margin-top: 40px;
+    background: #FFFFFF;
+    margin-right: 40px;
+    margin-left: 40px;
+    height: 500px;
+    width: 480px;
+    color:black;
+}
+#cardbody1{
+    border: hwb(0 89% 0%);
+    
+}
+
+#btn1{
+    border-color: orange;
+    color: orangered;
+    background: #FFFFFF;
+   height: 40px;
+   width: 180px;
+    border-radius: 2px;
+}
+
+#btn2{
+    background:green;
+    border: green;
+    color: #FFFFFF;
+    border-radius: 3px;
+    height: 40px;
+    width: 180px;
+
+}
